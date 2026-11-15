@@ -22,7 +22,7 @@ Quant Trader and MQL5 Developer building systematic trading systems across Forex
   - SQL
   - GitHub
   - MetaTrader 5
-  - Markets
+# Markets
   - Forex
   - Indices
   - Equities
@@ -37,4 +37,4 @@ Essex, United Kingdom
 # Repositories
 Profit-Manager-Robot
 # Contact
-LinkedIn: https://www.linkedin.com/
+LinkedIn: www.linkedin.com/in/deyankovachev
