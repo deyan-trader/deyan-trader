@@ -1,16 +1,40 @@
-## Hi there 👋
+# Deyan Kovachev
+Quant Trader and MQL5 Developer building systematic trading systems across Forex, Indices, Equities, Commodities, Gold and Crypto markets.
 
-<!--
-**deyan-trader/deyan-trader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
+  - Financial Analyst
+  - Quantitative Trader
+  - MQL5 Developer
+  - Python Developer
+  - SQL
+  - Bloomberg Market Concepts (BMC)
+# Current Projects
+  - Profit Manager Robot
+  - London Breakout EA
+  - Statistical Arbitrage Systems
+  - Random Walk Impulse Trading System
+  - Multi-Asset Quantitative Trading Models
+  - Portfolio Risk Management Framework
+  - Quantitative Research and Strategy Development
+# Technologies
+  - MQL5
+  - Python
+  - SQL
+  - GitHub
+  - MetaTrader 5
+  - Markets
+  - Forex
+  - Indices
+  - Equities
+  - Commodities
+  - Gold
+  - Cryptocurrency
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Location
+Essex, United Kingdom
+
+# Repositories
+Profit-Manager-Robot
+# Contact
+LinkedIn: https://www.linkedin.com/
