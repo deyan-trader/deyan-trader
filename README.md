@@ -20,6 +20,7 @@ Quant Trader and MQL5 Developer building systematic trading systems across Forex
   - MQL5
   - Python
   - SQL
+  - Git
   - GitHub
   - MetaTrader 5
 # Markets
