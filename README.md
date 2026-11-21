@@ -36,9 +36,10 @@ Quant Trader and MQL5 Developer building systematic trading systems across Forex
 Essex, United Kingdom
 
 # Repositories
-Profit-Manager-Robot
-Equity-Regime-Monitor
-Statistical-Arbitrage-System
-ZScore-Indicator-Pro
+  1. Profit-Manager-Robot
+  2. Equity-Regime-Monitor
+  3. Statistical-Arbitrage-System
+  4. ZScore-Indicator-Pro
+
 # Contact
 LinkedIn: www.linkedin.com/in/deyankovachev
