@@ -37,5 +37,8 @@ Essex, United Kingdom
 
 # Repositories
 Profit-Manager-Robot
+Equity-Regime-Monitor
+Statistical-Arbitrage-System
+ZScore-Indicator-Pro
 # Contact
 LinkedIn: www.linkedin.com/in/deyankovachev
