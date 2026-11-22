@@ -10,7 +10,7 @@ Quant Trader and MQL5 Developer building systematic trading systems across Forex
   - Bloomberg Market Concepts (BMC)
 # Current Projects
   - Profit Manager Robot
-  - London Breakout EA
+  - London Open Breakout
   - Statistical Arbitrage Systems
   - Random Walk Impulse Trading System
   - Multi-Asset Quantitative Trading Models
@@ -40,6 +40,7 @@ Essex, United Kingdom
   2. Equity-Regime-Monitor
   3. Statistical-Arbitrage-System
   4. ZScore-Indicator-Pro
+  5. London-Open-Breakout
 
 # Contact
 LinkedIn: www.linkedin.com/in/deyankovachev
